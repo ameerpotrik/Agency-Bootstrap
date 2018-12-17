@@ -1,0 +1,128 @@
+/*
+	.____           __                               .___       ._.
+	|    |    _____/  |_  ______      ____  ____   __| _/____   | |
+	|    |  _/ __ \   __\/  ___/    _/ ___\/  _ \ / __ |/ __ \  | |
+	|    |__\  ___/|  |  \___ \     \  \__(  <_> ) /_/ \  ___/   \|
+	|_______ \___  >__| /____  >     \___  >____/\____ |\___  >  __
+			\/   \/          \/          \/           \/    \/   \/
+	Author: Ameer Potrik
+	“Programs must be written for people to read, and only incidentally for machines to execute.” 
+
+*/
+
+
+
+.portfolio-margin {width: 95%;}
+.font-italic {text-color: yellow;}
+.float-left {height: auto;max-width: 100%; float: left;}
+.nav-link js-scroll  {transition: 0.3s;}
+.nav-item:hover {font-color: yellow;}
+.navbar-brand {font-size: 240%; font-weight: 350;}
+.nav-link {font-color: white; font-size: 140%; font-weight: 350;}
+.aamir {background: #fed136; text-shadow: none; font-size: 12px; text-transform: upper-case; border:0px; color: #fec503}
+.aamir-1 {text-align: center; color: #fff; background-repeat: no-repeat; background-attachment: scroll; background-image: url("../images/header/header-bg.jpg");min-height: 450px;height: 138vh;background-size: cover;}
+.aamir-2 {max-width: 1140px;}
+.aamir-3 {width: 100%; padding-right: 15px; padding-left:15px; margin-right: auto; margin-left:auto;}
+.text-muted {font-color: #6c757d;}
+.text-uppercase {text-transform: uppercase!important;}
+.aa {height: 200px}
+.aamir-15 {display: inline-block; height: 2em;line-height: 2em;position: relative; vertical-align: middle;width: 2em;}
+.aamir-16 {font-size: 4em;}
+.aamir-17 {color: #fed136;font-weight: 500; font-size: 2em;}
+.aamir-18 {font-weight: 900;font-family: "Font Awesome 5 Free";color: #fff;line-height: inherit;left: 0;position: absolute; text-align: center; width: 100%;}
+.text-mutedd {color: #6c757d;line-height: 1.75; margin-top:0; margin-bottom: 1rem}
+.style-ecommerce {font-size: 2.5rem; font-weight: 900px;}
+.style-ecommerce-text-muted {color: #6c757d; }
+.style-responsive-design {font-size: 2.5rem; font-weight: 900px;}
+.style-responsive-design-text-muted {color: #6c757d; font-size: 1.5rem;}
+.style-web-security {font-size: 2.5rem; font-weight: 900px;}
+.style-web-security-text-muted {color: #6c757d; font-size: 1.5rem;}
+.aamir-21 {text-align: left;}
+.aamir-22 {border-radius: 50%; background-position: center;}
+.aamir-23 {border-radius: 50%; background-position: center; max-width: 170px ; height: 170px;}
+.aamir-23 {color: #6c757d;}
+.aamir-24 {display: inline-block;float: left;}
+.aamir-25 {height: 290px;}
+.aamir-26 {font-size: 20px;line-height: 50px;display: block; width: 50px; height: 50px; transition: all .3s;color: #fff;border-radius: 100%; outline: 0;background-color: #212529; margin-right: .5rem;}
+.mx-auto {margin-left: auto!important; margin-right: auto!important;}
+.text-center {text-align: center!important; font-size: 1.3em;}
+.text-muted {color: #6c757d; font-size: 3.6rem;}
+.aamir-27 {height: 55px;}
+.aamir-28 {padding-top: 350px;padding-bottom: 200px;}
+.aamir-29 {font-size: 40px;font-style: italic;}
+.aamir-30 {font-size: 75px;}
+.btn-primary {background-color: #fec810!important;border-color: #fec810!important; color: #fff; height: 60px; width: 215px;}
+.aamir-31 {padding-right: 80px; font-size: 1.24rem;}
+.aamir-33 {padding-left: 50px; font-size: 1.24rem;}
+.aamir-32 {margin-left: -40px; font-size: 1.24rem;}
+.aamir-31 {padding-right: 80px; font-size: 1.24rem;}
+.aamir-33 {padding-left: 50px; font-size: 1.24rem;}
+.aamir-32 {margin-left: -40px; font-size: 1.24rem;}
+.aamir-35 {margin-top: 40px;}
+.aamir-36 {margin-top: 300px;}
+.aamir-37 {margin-bottom: 70px;}
+.aamir-38 {margin-left: 80px;}
+.aamir-39 {margin-left: 80px;}
+.aamir-40 {width: 95vw;}
+.team-member {margin-bottom: 50%;text-align: center; border: 7px solid #fff;}
+.heading {margin-top: 25px; margin-bottom: 0px;}
+.text-muteddd {margin-top: 0px; color: #6c757d;line-height: 1.75; margin-bottom: 1rem;font-weight: 450;font-size: 1.5rem;} 
+.padding {padding-left: 155px; padding-right: 155px;}
+.social-buttons {margin-bottom: 0;}
+.Kay-Garland {font-size: 2.4rem;font-weight: 750}
+.Larry-Parker {font-size: 2.4rem;font-weight: 750}
+.Diana-Petersen {font-size: 2.4rem;font-weight: 750}
+.list-inline {list-style: none;}
+.list-inline-item {display: inline-block;border-radius: 50%;}
+.fa-twitter  {background-color: #2B2929; border-radius: 50%; color: #F8F9FA; height: 55px;width: 55px;font-size: 1.45em;transition: 0.3s;}
+i:hover {background-color: yellow;}
+.fa-facebook-f {background-color: #2B2929; border-radius: 50%; color: #F8F9FA; height: 55px;width: 55px;font-size: 1.45em;transition: 0.3s;}
+.fa-linkedin-in {background-color: #2B2929; border-radius: 50%; color: #F8F9FA; height: 55px;width: 55px;font-size: 1.45em;transition: 0.3s;}
+.margin-center {margin: 0 auto }
+.fa-facebook-f:before {content: "\f39e";margin: 0 auto;}
+.fa-linkedin-in:before {content: "\f0e1";margin: 0 auto;}
+.text-mutedddd {color: #6c757d; font-weight: 500; line-height: 1.75;}
+.paddingg {padding-bottom: 180px;padding-left: 120px; padding-right: 120px; font-size: 1.1em;margin-right: auto!important;}
+.design-padding {padding-left: 90px; padding-right: 90px;padding-bottom: 90px;}
+.contact {background-color: #212529;background-image: url("../images/map.jpg");background-repeat: no repeat;background-position: center;min-height: 450px;height: 138vh;background-size: cover;min-width: 768px;}
+.section-subheading {font-weight: 500;font-style: italic;font-size: 1.5rem;}
+.section-heading {font-size: 60px; mt:0px; mb:15px;}
+.text-muteddddd {color: #6c757d;line-height: 1.75px;}
+.padding-footer {padding-top: 150px;padding-bottom: 30px; font-size: 1.1em}
+.padding-footerr {padding-top: 140px;padding-bottom: 30px;}
+.contact-margin {margin-left: 33rem;}
+footer span.copyright {font-size: 90%; line-height: 40px;}
+.a {font-color: yellow;}
+.timeline {padding: 75px 0;position: relative;}
+.timeline-nodes {padding-bottom: 100px ;padding-left: 20px;position: relative;}
+.timeline-nodes:nth-child(even) {flex-direction: row-reverse;}
+.timeline h3, .timeline p {padding: 2px 95px;} 
+.timeline h3{font-weight: lighter;}
+.timeline p, .timeline time {color: #6c757d;}
+.timeline::before {content: "";display: block;position: absolute;top: 0;left: 50%;width: 0;border-left: 2px solid black;height: 100%;z-index: 1;transform: translateX(-50%);}
+.timeline-content {position: relative;}
+.timeline-nodes:nth-child(odd) h3,
+.timeline-nodes:nth-child(odd) p {text-align: right;}
+.timeline-nodes:nth-child(odd) .timeline-date {text-align: left;}
+.timeline-nodes:nth-child(even) .timeline-date {text-align: right;}
+.timeline-nodes:nth-child(odd) .timeline-content::after {content: "";position: absolute;top: 5%;left: 100%;width: 0;border-left: 10px solid var(--black);border-top: 10px solid transparent;border-bottom: 10px solid transparent;}
+.timeline-nodes:nth-child(even) .timeline-content::after {content: "";position: absolute;top: 5%;right: 100%;width: 0;border-right: 10px solid var(--black);border-top: 10px solid transparent;border-bottom: 10px solid transparent;}
+.timeline-image {position: relative;z-index: 100;}
+.timeline-image img {position: relative;z-index: 100;}
+/*small device style*/
+@media (max-width: 767px) {
+.timeline-nodes:nth-child(odd) h3,
+.timeline-nodes:nth-child(odd) p {text-align: left;}
+.timeline-nodes:nth-child(even) {flex-direction: row;}
+.timeline::before {content: "";display: block;position: absolute;top: 0;left: 4%;width: 0;border-left: 2px dashed var(--blue);height: 100%;z-index: 1;transform: translateX(-50%);}
+.timeline h3 {font-size: 5.7rem;}
+.timeline p {font-size: 28px;}
+.timeline-image {position: absolute;left: 0%;top: 60px;/*transform: translateX(-50%;);*/}
+.timeline-nodes:nth-child(odd) .timeline-content::after {content: "";position: absolute;top: 5%;left: auto;right: 100%;width: 0;border-left: 0;border-right: 10px solid var(--blue);border-top: 10px solid transparent;border-bottom: 10px solid transparent;}
+.timeline-nodes:nth-child(even) .timeline-content::after {content: "";position: absolute;top: 5%;right: 100%;width: 0;border-right: 10px solid var(--blue);border-top: 10px solid transparent;border-bottom: 10px solid transparent;}
+.timeline-nodes:nth-child(even) .timeline-date {text-align: left;}
+.timeline-image::before {width: 65px;height: 65px;}}
+/*extra small device style */
+@media (max-width: 575px) {.timeline::before {content: "";display: block;position: absolute;top: 0;left: 3%;}
+.timeline-image {position: absolute;left: -5%;}
+.timeline-image::before {width: 60px;height: 60px;}
